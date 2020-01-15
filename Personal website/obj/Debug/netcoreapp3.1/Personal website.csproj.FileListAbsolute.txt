@@ -1,0 +1,36 @@
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.exe
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.deps.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.runtimeconfig.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.runtimeconfig.dev.json
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.dll
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.pdb
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.Views.dll
+C:\Users\rtobia\source\repos\Personal website\Personal website\bin\Debug\netcoreapp3.1\Personal website.Views.pdb
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\staticwebassets\Personal website.StaticWebAssets.Manifest.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\staticwebassets\Personal website.StaticWebAssets.xml
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.RazorAssemblyInfo.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.RazorAssemblyInfo.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.AssemblyInfoInputs.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.AssemblyInfo.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.TagHelpers.input.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.TagHelpers.output.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.RazorCoreGenerate.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.RazorTargetAssemblyInfo.cache
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.RazorTargetAssemblyInfo.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.Views.pdb
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.dll
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.pdb
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Personal website.csproj.CopyComplete
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+C:\Users\rtobia\source\repos\Personal website\Personal website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
